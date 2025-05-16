@@ -1,0 +1,84 @@
+
+
+.meta-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.meta-form {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 40px 30px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.meta-form h1 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #1877f2;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.meta-form label {
+  display: block;
+  margin-bottom: 6px;
+  font-weight: 500;
+  color: #333;
+}
+
+.meta-form input {
+  width: 94%;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: 1px solid #dddfe2;
+  background-color: #f5f6f7;
+  transition: border 0.3s ease;
+}
+
+.meta-form input:focus {
+  outline: none;
+  border: 1px solid #1877f2;
+  background-color: #ffffff;
+  box-shadow: 0 0 0 2px rgba(24, 119, 242, 0.2);
+}
+
+.meta-form button {
+  width: 100%;
+  padding: 12px;
+  background-color: #1877f2;
+  border: none;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.meta-form button:hover {
+  background-color: #165cdb;
+}
+
+.meta-form .form-footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.meta-form .form-footer a {
+  color: #1877f2;
+  text-decoration: none;
+}
+
+.meta-form .form-footer a:hover {
+  text-decoration: underline;
+}
