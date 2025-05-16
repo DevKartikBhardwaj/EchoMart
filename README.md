@@ -1,4 +1,4 @@
-# EchoMart - Specially Abled Store
+# EchoMart - Specially Abled Store (This Project is under Developement)
 
 EchoMart is a voice-enabled, secure, and accessible e-commerce platform designed specifically for visually impaired users to independently shop from nearby stores. Built with modern technologies and accessibility-first design, it empowers users through voice interaction and secure, screen-free authentication.
 
